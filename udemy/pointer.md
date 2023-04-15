@@ -1,0 +1,1 @@
+pointer is a variable which 
